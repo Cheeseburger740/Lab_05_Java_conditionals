@@ -1,10 +1,9 @@
-import java.util.Scanner;
-public class Lab_05_Java_Conditionals {
+void main() {
+
+
     //declare vars
-    Scanner in =new Scanner(System.in); //'in' is our scanner var
+    Scanner in = new Scanner(System.in); //'in' is our scanner var
     double wage = 0;
-
-
-
+    System.out.print(wage);
 
 }
